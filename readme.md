@@ -11,6 +11,8 @@ This project aims to build a **real-time go-kart telemetry system** using ESP32,
 - [ ] Transmit GPS data over **WiFi** to the server
 - [ ] Debug and ensure reliable data transmission
 
+
+
 ### 🖥️ 2. Server Development (Data Processing)
 - [ ] Choose communication protocol: **MQTT vs WebSockets**
 - [ ] Set up **ZimaBoard** as the server
